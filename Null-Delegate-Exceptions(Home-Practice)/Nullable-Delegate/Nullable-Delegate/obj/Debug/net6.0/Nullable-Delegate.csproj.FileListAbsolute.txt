@@ -1,0 +1,5 @@
+C:\Users\konul\OneDrive\Masaüstü\C#\HomeWork-Practice\Nullable-Delegate-Exceptions\Nullable-Delegate\Nullable-Delegate\obj\Debug\net6.0\Nullable-Delegate.csproj.AssemblyReference.cache
+C:\Users\konul\OneDrive\Masaüstü\C#\HomeWork-Practice\Nullable-Delegate-Exceptions\Nullable-Delegate\Nullable-Delegate\obj\Debug\net6.0\Nullable-Delegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\konul\OneDrive\Masaüstü\C#\HomeWork-Practice\Nullable-Delegate-Exceptions\Nullable-Delegate\Nullable-Delegate\obj\Debug\net6.0\Nullable-Delegate.AssemblyInfoInputs.cache
+C:\Users\konul\OneDrive\Masaüstü\C#\HomeWork-Practice\Nullable-Delegate-Exceptions\Nullable-Delegate\Nullable-Delegate\obj\Debug\net6.0\Nullable-Delegate.AssemblyInfo.cs
+C:\Users\konul\OneDrive\Masaüstü\C#\HomeWork-Practice\Nullable-Delegate-Exceptions\Nullable-Delegate\Nullable-Delegate\obj\Debug\net6.0\Nullable-Delegate.csproj.CoreCompileInputs.cache
